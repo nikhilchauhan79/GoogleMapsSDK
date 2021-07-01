@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConceptsUsedSalesApp</string>
+    <string name="name">NAME</string>
+    <string name="channel_name">DEFAULT_CHANNEL</string>
+    <string name="channel_description">DEFAULT_DESCRIPTION</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_location">Map</string>
+    <string name="geofence_transition_invalid_type">INVALID GEOFENCE TRANSITION DETAILS</string>
+
+</resources>
